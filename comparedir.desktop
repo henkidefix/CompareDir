@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=CompareDir
+Comment=Compare 2 directories and work on the differences.
+Icon=comparedir
+Exec=comparedir
+Terminal=false
+StartupNotify=false
+Categories=Utility;
+Type=Application
+NoDisplay=false

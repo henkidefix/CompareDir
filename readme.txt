@@ -40,3 +40,4 @@ Roadmap:
     Rewite in fpGUI+FreePascal for speed improvement ? 
 
 Henk Speksnijder  3 january 2015
+![screenshot](https://cloud.githubusercontent.com/assets/10391134/5668156/cd3f26fa-976d-11e4-844e-e3198753b3d0.png)
